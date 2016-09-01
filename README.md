@@ -11,7 +11,7 @@ This portfolio project is part of the [Udacity's Hadoop and MapReduce course](ht
 - MapReduce design patterns.
 
 ## Final Project
-Here i will answer questions about big sales data and analyzing large website logs.
+Here I will answer questions about big sales data and analyzing large website logs.
 
 The final project consists out of four parts.
  - [Students and Posting Time on Forums](https://classroom.udacity.com/courses/ud617/lessons/717558831239847/concepts/24639586650923#). 
